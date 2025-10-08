@@ -28,4 +28,4 @@ A lightweight, secure, terminal-based password manager built using Python and SQ
 ```bash
 git clone https://github.com/yourusername/password-manager.git
 cd password-manager
-python password_manager.py
+python password_system.py
